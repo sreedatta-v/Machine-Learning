@@ -1,4 +1,4 @@
 # Machine Learning 
 -> Algorithms  
--> Linear
+-> Linear  
 -> Logical
